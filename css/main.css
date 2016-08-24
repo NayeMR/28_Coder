@@ -1,0 +1,62 @@
+/* Tu CSS va aqui  */
+
+li{
+	display: inline-block;
+	color: white;
+}
+.imgfondo{
+	background-image: url("../img/header.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 20%;	
+}
+.textWhite{
+	color: white;
+}
+.GrayObs{
+	background-color: #FF0D0D;
+}
+.Gray{
+	background-color: #181818;
+}
+.img{
+	width: 110%;
+	height: 100%;
+}
+
+hr{
+	width: 10%;
+}
+.hr2{
+	border: 1px solid #FF0D0D;
+}
+.text-gray{
+	color: gray;
+}
+.img1{
+	background-image: url("../img/1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.opasity{
+	opacity: 1;
+	background-color:#FF0D0D; 
+	cursor: pointer;
+}
+.p{
+	position: relative;
+	top: 5%;
+	left: 5%;
+	padding: 10%;
+	opacity: 1;
+	display: inline-block;
+}
+.mg{
+	margin-bottom: 0%;
+}
+.pd{
+	padding: 5%;
+}
+button{
+	background: fixed;
+}
